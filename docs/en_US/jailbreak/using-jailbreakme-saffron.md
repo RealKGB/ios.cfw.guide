@@ -19,7 +19,7 @@ JailbreakMe Saffron is an untethered jailbreak meaning that it survives a reboot
 ## Running JailbreakMe Saffron
 
 1. Open Safari on your iOS device
-1. Go to the [jailbreakme.com](https://jailbreakme.com) website
-1. Tap "Install"
+1. Go to the URL [jailbreakme.com/saffron/_/](https://jailbreakme.com/saffron/_/)
+1. Select the PDF that corresponds to your device and iOS version
 
 You should now be jailbroken with Cydia installed on your home screen. You can use Cydia to install <router-link to="/faq/#what-are-tweaks">tweaks</router-link>, themes and more.
