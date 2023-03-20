@@ -38,7 +38,7 @@ You will have to use Cydia to install the untether. If you are unfamiliar with h
 
 1. Open the Cydia application
 1. Check the "Sources" tab and ensure "tihmstar's beta repo" is added
-    - If you can't find it, tap `Edit` -> `+` and enter `repo.tihmstar.net`
+    - If you can't find it, tap `Edit` -> `+` and enter `thanos.lol/repo`
 1. Open the "Search" tab and enter "UntetherHomeDepot"
 1. Tap on the tweak and then tap "Install" in the top right-hand corner of the screen
 1. Confirm the installation
